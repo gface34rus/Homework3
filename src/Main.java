@@ -88,13 +88,5 @@ public class Main {
         int kristinaRaise = ((kristina/100)*10)+kristina;
         int kristinaDiff = (kristinaRaise-kristina)*12;
         System.out.println("Кристина теперь получает "+kristinaRaise+" рублей. Годовой доход вырос на "+kristinaDiff+" рублей");
-
-
-
-
-
-
-
-
     }
 }
