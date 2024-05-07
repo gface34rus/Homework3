@@ -7,12 +7,12 @@ public class Main {
         long l = 250L;
         float f = 3.5f;
         double d = 120.75;
-        System.out.println("Значчение переменной b с типом byte равно " + b);
-        System.out.println("Значчение переменной s с типом short равно " + s);
-        System.out.println("Значчение переменной i с типом int равно " + i);
-        System.out.println("Значчение переменной l с типом long равно " + l);
-        System.out.println("Значчение переменной f с типом float равно " + f);
-        System.out.println("Значчение переменной d с типом double равно " + d);
+        System.out.println("Значение переменной b с типом byte равно " + b);
+        System.out.println("Значение переменной s с типом short равно " + s);
+        System.out.println("Значение переменной i с типом int равно " + i);
+        System.out.println("Значение переменной l с типом long равно " + l);
+        System.out.println("Значение переменной f с типом float равно " + f);
+        System.out.println("Значение переменной d с типом double равно " + d);
         System.out.println();
 
         // Задача 2
